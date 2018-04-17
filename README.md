@@ -37,5 +37,5 @@ int main()
     return 0;
 }
 ```
-
+![image](https://github.com/akimotoakira0320/cpp/blob/master/%E6%93%B7%E5%8F%96.PNG)
 ```
