@@ -33,6 +33,8 @@ int main()
   return 0;
 }
 ```
+![image](https://github.com/akimotoakira0320/cpp/blob/master/2.PNG)
+```
 # cpp
 ```
 #include <iostream>
